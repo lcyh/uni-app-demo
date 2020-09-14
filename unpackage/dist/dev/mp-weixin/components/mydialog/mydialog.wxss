@@ -1,0 +1,44 @@
+@-webkit-keyframes opa {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+@keyframes opa {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+.dialog_box {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 30;
+  -webkit-animation: opa 0.2s;
+          animation: opa 0.2s;
+}
+.dialog_box .slot_box {
+  background: #fff;
+  width: 300px;
+  margin: auto;
+  top: 25%;
+  position: relative;
+  z-index: 20;
+}
+.dialog_box .mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "珠峰",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "/components/navBar/navBar",
+    "mydialog": "/components/mydialog/mydialog",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "pub-class": "/pages/index/pubClass"
+  }
+}
