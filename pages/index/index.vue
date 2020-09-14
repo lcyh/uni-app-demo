@@ -139,17 +139,17 @@
 					{
 						"img":"https://vkceyugu.cdn.bspapp.com/VKCEYUGU-hello2/f0df6420-dab1-11ea-8a36-ebb87efcf8c0.jpg",
 						"title":"手写Vue源码-可能是你见过最完整的版本！",
-						"url":"https://m-qa.xuprise.com/app/coupon-info"
+						"url":"https://mp.weixin.qq.com/s/cTOxf1n-YSTWLvlYh04AMw"
 					},
 					{
 						"img":"https://vkceyugu.cdn.bspapp.com/VKCEYUGU-hello2/f0dad040-dab1-11ea-8bd0-2998ac5bbf7e.jpg",
 						"title":"两天时间基于Vue从零打造自己的UI组件库",
-						"url":"https://m-qa.xuprise.com/app/coupon-info"
+						"url":"https://mp.weixin.qq.com/s/0QGv8p-jmv5AN7YHCl3xYA"
 					},
 					{
 						"img":"https://vkceyugu.cdn.bspapp.com/VKCEYUGU-hello2/f0e15ff0-dab1-11ea-8a36-ebb87efcf8c0.jpg",
 						"title":"工程化1:1从零实现Vue源码",
-						"url":"https://m-qa.xuprise.com/app/coupon-info"
+						"url":"https://mp.weixin.qq.com/s/-aZ1yo3Lumk2b3Y1JI655A"
 					}
 				]
 				this.pubClassList=data;
